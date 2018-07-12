@@ -1,0 +1,1 @@
+﻿var demoApp = angular.module('demoApp', ['ngMessages']);
